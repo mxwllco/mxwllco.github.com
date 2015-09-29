@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Max's test"
 description: ""
 category: 
 tags: []
